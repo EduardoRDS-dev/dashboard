@@ -14,63 +14,63 @@ function DataTable() {
                 <tbody>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Homem de Ferro</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Homem de Ferro</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Homem de Ferro</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Homem de Ferro</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Homem Aranha</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Dead Pool</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Batman</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Dead Pool</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Doutor Estranho</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
