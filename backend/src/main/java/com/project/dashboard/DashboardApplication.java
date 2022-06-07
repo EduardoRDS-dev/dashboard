@@ -10,5 +10,4 @@ public class DashboardApplication {
 		SpringApplication.run(DashboardApplication.class, args);
 
 	}
-
 }
